@@ -1,0 +1,7 @@
+
+Analysis steps
+
+1. data cleaning
+2. intitial data exploration
+3. principal component analysis (PCA)
+4. data visualization
